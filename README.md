@@ -1,0 +1,1 @@
+# use-the-conditional-ternary-operator.js
